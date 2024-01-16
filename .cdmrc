@@ -1,3 +1,4 @@
 tabs: ['src/main.jsx', 'src/App.jsx', 'src/App.css']
 terminals: ['npm i && npm run dev']
 run-button: npm run dev
+playground-view: terminal-editor-browser
